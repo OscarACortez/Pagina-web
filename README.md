@@ -15,7 +15,7 @@ Este es un portafolio creado con HTML, CSS y JavaScrip como metodologia BEN y ar
 --[LONLACESITHPAGES] (ENLACEGITHUBPAGES)
 
 
-##Instalación 
+## Instalación 
 * Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
 
 ## Contratación 
