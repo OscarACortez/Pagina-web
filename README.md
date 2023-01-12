@@ -6,13 +6,13 @@ Este es un portafolio creado con HTML, CSS y JavaScrip como metodologia BEN y ar
 ** Oscar Cortez **
 
 
-[Linkedin] (https://www.linkedin.com/in/oscar-cortez-6058401a) 
-[YouTube] (https://youtu.be/E9PlulBIU3U)
-[Twitter](https://twitter.com/oscar0101?t=rJR55R2Ue-rAKAiJAeuOnQ&s=09)
+* [Linkedin] (https://www.linkedin.com/in/oscar-cortez-6058401a) 
+* [YouTube] (https://youtu.be/E9PlulBIU3U)
+* [Twitter] (https://twitter.com/oscar0101?t=rJR55R2Ue-rAKAiJAeuOnQ&s=09)
 
 ## Ver ejemplo en vivo
 
--[LONLACESITHPAGES] (ENLACEGITHUBPAGES)
+--[LONLACESITHPAGES] (ENLACEGITHUBPAGES)
 
 
 ##Instalación 
