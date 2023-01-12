@@ -16,7 +16,7 @@ Este es un portafolio creado con HTML, CSS y JavaScrip como metodologia BEN y ar
 
 
 ##Instalación 
-Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
+* Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
 
 ## Contratación 
-Si quieres contratarne puedes escribirse a oscar0002ortiz@gmail.com para consultas.
+* Si quieres contratarne puedes escribirse a oscar0002ortiz@gmail.com para consultas.
