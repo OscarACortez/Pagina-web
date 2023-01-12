@@ -12,7 +12,7 @@ Este es un portafolio creado con HTML, CSS y JavaScrip como metodologia BEN y ar
 
 ## Ver ejemplo en vivo
 
---[LONLACESITHPAGES] (ENLACEGITHUBPAGES)
+--[https://oscaracortez.github.io/mi-portafolio/] (https://oscaracortez.github.io/mi-portafolio/)
 
 
 ## Instalación 
